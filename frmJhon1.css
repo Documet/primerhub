@@ -1,0 +1,27 @@
+.btn-Jhon{
+  border: none;
+  color: rgb(223, 135, 135);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+}
+.jhon-viajes{background-color: #5ca7c7; margin-right: 10px;}
+.jhon-comidas{background-color: #6dbdd8;}
+.jhon-datos{background-color: #e37169;}
+.red{background-color: rgb(191, 214, 105); width: 100%; text-align: left; border: 5px solid black;margin-bottom: 10px;}
+table,th{
+  text-align: center;
+ color: #eeff00d4;
+ padding: 8px;
+background-image: url(https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-4.0.3&w=1080&fit=max&q=80&fm=jpg&crop=entropy&cs=tinysrgb);
+ 
+}
+td,tr{
+  color: #000000;
+  text-align: justify;
+}
+body{
+  background-image: url(https://w0.peakpx.com/wallpaper/671/414/HD-wallpaper-sunset-in-lima-peru-lima-24-april-2018-pescadores-beach-chorrillos-peru-sunset.jpg);background-repeat: no-repeat;background-size: cover;background-position: center;background-attachment: fixed;
+}
